@@ -1,0 +1,28 @@
+﻿1;sq;1;Tell your boss it was your coworker's idea.
+1;tu;2;Explain that you had help from your coworker.
+1;td;4;Say “There is more where that came from.”
+1;di;3;Say "Thank you."
+2;sq;3;Use the saved money to treat your date.
+2;tu;4;Ignore the mistake and split the bill.
+2;td;1;Bring the oversight to the waiter’s attention.
+2;di;2;Leave a bigger tip than normal.
+3;sq;3;Enjoy the attention.
+3;tu;4;Flirt back and hope it leads to more.
+3;td;2;Advise them to address their problems with their partner.
+3;di;1;Subtly shut down their attempts.
+4;sq;1;Contact your acquaintance and give back their phone.
+4;tu;2;Donate the phone to a cause or person in need.
+4;td;4;Sell the phone to buy other things.
+4;di;3;Take the phone for yourself.
+5;sq;2;Offer them a slice.
+5;tu;3;Enjoy two pizzas and their hungry stare.
+5;td;1;Eat until you’re full and offer them the rest.
+5;di;4;Request money back for eating your pizza.
+6;sq;1;Get their ID and report them to the police.
+6;tu;3;Punch them in the face before calling an ambulance.
+6;td;2;Tie their shoelaces together and walk away.
+6;di;4;Take their valuables, spit in their face and walk away.
+7;sq;3;Lock myself up in my room and feel bad.
+7;tu;2;Try to do things that will offer distraction.
+7;td;1;Research on how to learn from this experience.
+7;di;4;Indulge in the misery.

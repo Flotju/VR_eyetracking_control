@@ -1,0 +1,4 @@
+vo_10_15;Attack
+vo_70_1;GotHit
+vo_500_3;Taunt
+vo_510_1;GotHit

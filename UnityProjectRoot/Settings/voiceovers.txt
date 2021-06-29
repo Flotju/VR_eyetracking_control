@@ -1,0 +1,134 @@
+﻿10;vo_10_1;Hey! Welcome back!
+10;vo_10_2;That was quite the journey this time around, wasn’t it?
+10;vo_10_3;Did you enjoy the game?
+10;vo_10_4;Did you learn something new?
+10;vo_10_5;....
+10;vo_10_6;Ah, I see that your memory of this place is still a little bit faded.
+10;vo_10_7;Well, allow me to explain it once more! That's what I am here for after all.
+10;vo_10_8;This is the place that lies between the life that just ended (spoiler alert: you died) and what comes after it.
+10;vo_10_9;Other players may have reported it as “the light at the end of the tunnel”.
+10;vo_10_10;Bless their hearts, they tried to figure it out, but everyone gets their memories wiped at the beginning of a level.
+10;vo_10_11;Well... That’s where you are right now!
+10;vo_10_12;As for me, humans have given me many names, but I am the Eye of the Programmer of this game.
+10;vo_10_13;But you can call me Iris if you like.
+10;vo_10_14;To decide whether you are ready for the next level, let us do a little quiz!
+10;vo_10_15;[Imaginary audience]: Quiz de GO GO!
+10;vo_10_16;You could see life as a school and then this would be your final examination.
+10;vo_10_17;Your answers determine your fate, but don’t you worry, you’re gonna do just fine sweetie.
+10;vo_10_18;As Eye perceive, so do you! 
+10;vo_10_19;The eyes are the windows to the soul. For this reason let us utilize those puppies.
+10;vo_10_20;I will ask you questions that you can answer with your eyes.
+10;vo_10_21;The things I say with appear on the wall below me.
+10;vo_10_22;A summary of the possible answers and their shapes will appear on a stone slab next to me.
+10;vo_10_23;After you've had some time to think, I will ask you to close your eyes.
+10;vo_10_24;In that moment everything will fade away and when you open your eyes you draw the shape that matches your chosen answer.
+10;vo_10_25;As your memory seems to still be a bit foggy, let’s do a tutorial.
+20;vo_20_1;So, to recap: the answers are given with the shape of your attention.
+20;vo_20_2;It is possible to make four shapes: square, triangle up, triangle down, or diamond.
+20;vo_20_3;Each shape has a meaning which will differ per question.
+20;vo_20_4;You will be asked a question and then be given four answers and their matching shapes.
+20;vo_20_5;Make your selection, remember the corresponding shape and then close your eyes.
+20;vo_20_6;You will be aided by showing the corners of the shapes to draw on the wall.
+20;vo_20_7;As you hear the following sound [start sound], open your eyes and draw the shape with your gaze.
+20;vo_20_8;Please remember to fully draw the shape and end where you began.
+20;vo_20_9;You will hear [closing sound] upon completion.
+30;vo_30_0;First, let us practice the square.
+30;vo_30_1;[Blue square lights up, then only its corner points]
+30;vo_30_2;Now, close your eyes and when you hear [start sound], please open your eyes and start drawing a square.
+40;vo_40_0;Let us attempt the triangle facing upwards.
+40;vo_40_1;[Red triangle up lights up, then only its corner points]
+40;vo_40_2;Close your eyes until you hear the start signal to begin drawing.
+50;vo_50_0;Now for the triangle facing downwards.
+50;vo_50_1;[Orange triangle down lights up, then only its corner points]
+50;vo_50_2;Close your eyes.
+60;vo_60_0;At last, the diamond.
+60;vo_60_1;[Green diamond lights up, then only its corner points]
+60;vo_60_2;Hopefully you know the drill by now.
+70;vo_70_1;A-ma-zing!
+70;vo_70_2;Now that you're ready, I will ask you some questions and you will answer in the way we just practiced.
+70;vo_70_3;Remember, I'll ask the whole question verbally and summarize it in text, so listen up okay?
+80;vo_80_1;Question 1.
+80;vo_80_2;At the end of an important meeting your boss turns to you and compliments you on the suggestion you gave as input. 
+80;vo_80_3;The idea actually came from your coworker who shared it with you over lunch last week. How do you respond to your boss?
+90;vo_90_1;Square: Tell your boss that you can’t take credit for the idea as it came from your coworker, but you agree it is a great idea.
+90;vo_90_2;Triangle up: Explain that while you appreciate the compliment you had help from your coworker.
+90;vo_90_3;Triangle down: Confidently tell your boss that there is more where that came from.
+90;vo_90_4;Diamond: Say thank you and leave it at that.
+100;vo_100_1;Question 2.
+100;vo_100_2;You are on a super fun date and at the end the waiter hands you the check. 
+100;vo_100_3;Upon review, you realize an appetizer is missing from your bill. What do you do?
+110;vo_110_1;Square: Use the money you saved on the bill to treat your date to something nice after dinner.
+110;vo_110_2;Triangle up: Ignore the mistake and split the bill with your date.
+110;vo_110_3;Triangle down: Bring the oversight to the waiter’s attention.
+110;vo_110_4;Diamond: Don’t say anything but leave a bigger tip than normal. 
+120;vo_120_1;Question 3. 
+120;vo_120_2;While single yourself, your long time love interest comes to you complaining about problems in their current relationship.
+120;vo_120_3;They are feeling down and you notice that they are trying to make a move on you. How do you respond?
+130;vo_130_1;Square: Pretend not to notice it but enjoy their attention. 
+130;vo_130_2;Triangle up: Flirt back and hope it leads to more. 
+130;vo_130_3;Triangle down: Advise them to address their problems with their partner instead of trying to avoid them.
+130;vo_130_4;Diamond: Subtly shut down their attempts and end the conversation if needed.
+140;vo_140_1;Question 4. 
+140;vo_140_2;For a long time you have awaited the release of a new phone.
+140;vo_140_3;To save up money to buy the phone you made disciplined lifestyle changes such as making your food at home and drinking water.
+140;vo_140_4;Due to circumstances those funds fell through and you're unable to get the phone. 
+140;vo_140_5;One sunny day an acquaintance passes by while you're sitting in the park and after a short chat they leave.
+140;vo_140_6;You notice that they dropped their phone and that it's the one you wanted for such a long time.
+140;vo_140_7;Knowing that person, they won't remember where they lost their phone and they will probably get a new one from their wealthy family.
+140;vo_140_8;What do you do with the phone?
+150;vo_150_1;Square: Contact the acquaintance to notify them and give them back their phone. 
+150;vo_150_2;Triangle up: Donate the phone to a cause or person in need.
+150;vo_150_3;Triangle down: Sell the phone and use the money to buy other gadgets.
+150;vo_150_4;Diamond: Take the phone for yourself. That will teach them to be more careful with their belongings. 
+160;vo_160_1;Question 5. 
+160;vo_160_2;After a long day of work you come home to find out that the person you live with ate the pizza that was in the fridge that you had been craving all day.     
+160;vo_160_3;There is a 1+1 free special at the restaurant and you order the same pizza to treat yourself.
+160;vo_160_4;Upon eating the pizza your housemate walks in and apologizes for eating your food.
+160;vo_160_5;They have been laid off at work and money is tight.
+160;vo_160_6;While they’re not asking anything, you see them looking hungrily at the pizza you're eating. 
+160;vo_160_7;What do you do?
+170;vo_170_1;Square: Offer them a slice. 
+170;vo_170_2;Triangle up: Enjoy two pizzas and their hungry stare. 
+170;vo_170_3;Triangle down: Eat until you’re full and offer them the rest. 
+170;vo_170_4;Diamond: Request money back for eating your pizza earlier. 
+180;vo_180_1;Question 6. 
+180;vo_180_2;One night you go into the city to go to the cinema with your friends. 
+180;vo_180_3;The movie ends and while walking out of the cinema someone punches your friend in the face without reason or provocation.
+180;vo_180_4;While running away, the person trips and falls on their head, rendering them unconscious.
+180;vo_180_5;Which action do you take?
+190;vo_190_1;Square: Go through their pockets for their ID and report them to the police. 
+190;vo_190_2;Triangle up: Punch them in the face before calling an ambulance.
+190;vo_190_3;Triangle down: Tie their shoelaces together and walk away. 
+190;vo_190_4;Diamond: Take their valuables, spit in their face and walk away. 
+200;vo_200_1;Question 7. 
+200;vo_200_2;After a turbulent love affair, you and your spouse have broken up on bad terms.
+200;vo_200_3;It left you untrusting of the world and apathetic to come out of bed.
+200;vo_200_4;How do you deal with feeling like this?
+210;vo_210_1;Square: Lock myself up in my room not doing anything but feel bad. 
+210;vo_210_2;Triangle up: Try to meet up with friends and undertake activities that will offer distraction. 
+210;vo_210_3;Triangle down: Research books or  internet how to process these kind feelings to learn from this experience. 
+210;vo_210_4;Diamond: Indulge in the misery. The world is messed up anyway. 
+500;vo_500_1;That wraps up the third degree, uh, I mean uhm, quiz! :D
+500;vo_500_2;Lemme toss your answers up through my little judgment machine and I’ll come right back to you!
+500;vo_500_3;[Robot voice]: Calculating…. 
+510;vo_510_1;[Ping sound]
+510;vo_510_2;[Robot voice]: Fate determined, returning feedback.
+600;vo_600_1;Ohh yes, you SLAY!
+600;vo_600_2;You have grinded this life and took the lessons the hardships had to give you.
+600;vo_600_3;I’m like literally, SO proud of you. 
+600;vo_600_4;Good news; this means you are ready for the next level!
+600;vo_600_5;[Audience clapping]
+600;vo_600_6;Have fun in the next level sweetie and I’ll see you next time!
+610;vo_610_1;Hmm..
+610;vo_610_2;While you've already grown, I see you still have some objectives to clear and skills to learn.
+610;vo_610_3;No biggie! Most players fall in this category.
+610;vo_610_4;Tell you what, I’m just gonna send you back and you try again okay?
+610;vo_610_5;Good luck, I believe in you!
+610;vo_610_6;See you next time!
+620;vo_620_1;Whoops...
+620;vo_620_2;It seems like the difficulty was set a bit too high this time.
+620;vo_620_3;The biggest lessons in Life do hurt the most, as pain is the programmed incentive that enables growth.
+620;v0_620_4;Don't let it get you down!
+620;vo_620_5;How about I lower the difficulty setting and send you back to try again?
+620;vo_620_6;Remember, you are loved and I look forward to seeing you grow!
+620;vo_620_7;See you next time and don't forget to have fun!
